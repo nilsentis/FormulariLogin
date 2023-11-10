@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+        <!-- CANVIEM LA SEGUENT LINIA, parent hi coloquem el que volguem o que haguem importat de nou de build.gradle  -->
+    <style name="Base.Theme.FormulariLogin" parent="Theme.MaterialComponents.Light">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.FormulariLogin" parent="Base.Theme.FormulariLogin" />
+</resources>
